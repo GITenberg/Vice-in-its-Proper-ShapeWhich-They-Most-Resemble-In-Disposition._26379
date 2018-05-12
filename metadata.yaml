@@ -1,0 +1,35 @@
+_repo: Vice-in-its-Proper-ShapeWhich-They-Most-Resemble-In-Disposition._26379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Vice -- Juvenile fiction'
+title: 'Vice in its Proper Shape
+
+  Or, The Wonderful and Melancholy Transformation of Several
+
+  Naughty Masters and Misses Into Those Contemptible Animals
+
+  Which They Most Resemble In Disposition.'
+url: http://www.gutenberg.org/ebooks/26379
